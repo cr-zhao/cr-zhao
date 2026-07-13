@@ -9,5 +9,6 @@ I'm a CS new graduate passionate about AI infrastructure, developer tools, and s
 💻 Interested in AI Systems, Compiler Infrastructure, LLM Inference, and Distributed Systems.
 
 📫 How to reach me: 
+- Gmail: zhaochenrui757@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chenrui-zhao-8070412bb/
 
