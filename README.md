@@ -6,7 +6,7 @@ I'm a CS new graduate passionate about AI infrastructure, developer tools, and s
 
 🌱 Currently learning **Compiler**, **LLVM**, and **MLIR**, and planning to contribute to open-source compiler projects such as **MLIR** and **ONNX**.
 
-💻 Interested in AI Systems, Compiler Infrastructure, LLM Inference, and Distributed Systems.<!--
+💻 Interested in AI Systems, Compiler Infrastructure, LLM Inference, and Distributed Systems.
 
 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/chenrui-zhao-8070412bb/
