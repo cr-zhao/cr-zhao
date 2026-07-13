@@ -4,7 +4,7 @@ I'm a CS new graduate passionate about AI infrastructure, developer tools, and s
 
 🔭 Currently working on an **AI Gateway** project focused on model routing, OpenAI-compatible APIs, and developer experience.
 
-🌱 Currently learning **Compiler**, and contributing to open-source compiler projects such as **MLIR** and **ONNX**.
+🌱 Currently learning **Compiler**, and contributing to open-source compiler projects such as **MLIR(https://github.com/onnx/onnx-mlir)** and **ONNX**.
 
 💻 Interested in AI Systems, Compiler Infrastructure, LLM Inference, and Distributed Systems.
 
