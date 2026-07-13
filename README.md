@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**cr-zhao/cr-zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS new graduate passionate about AI infrastructure, developer tools, and system software.
 
-Here are some ideas to get you started:
+🔭 Currently working on an **AI Gateway** project focused on model routing, OpenAI-compatible APIs, and developer experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Compiler**, **LLVM**, and **MLIR**, and planning to contribute to open-source compiler projects such as **MLIR** and **ONNX**.
+
+💻 Interested in AI Systems, Compiler Infrastructure, LLM Inference, and Distributed Systems.<!--
+
+📫 How to reach me: 
+- LinkedIn: https://www.linkedin.com/in/chenrui-zhao-8070412bb/
+
